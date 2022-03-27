@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a77b7457-a678-4cc5-a0ca-40f570a57646": {
+      "ProjectGuid": "a77b7457-a678-4cc5-a0ca-40f570a57646",
+      "DisplayName": "ExcelConsoleProcessor",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4ccc68a8-7186-4dbd-a1b0-0685304aa223": {
+      "ProjectGuid": "4ccc68a8-7186-4dbd-a1b0-0685304aa223",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
